@@ -18,4 +18,9 @@ h3 {
     color: red;
 }
 
+.front.page {
+    display: flex;
+    justify-content: center;
+}
+
 
